@@ -1,0 +1,10 @@
+Player
+speed = 500
+hearts = 4
+money = 0
+Weapons : (Axe, Spear)
+weapon = Axe
+Enemy
+speedEnemy = 1
+triggerArea = 150
+logger = 0

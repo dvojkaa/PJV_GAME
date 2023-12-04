@@ -1,0 +1,9 @@
+Player
+speed = 5
+hearts = 20
+money = 200000
+Weapons : (Axe, Spear)
+weapon = Axe
+Enemy
+speedEnemy = 1
+triggerArea = 150

@@ -1,0 +1,5 @@
+hearts = 1
+Weapon = Axe
+uroven = 1
+money = 200004
+speed = 5

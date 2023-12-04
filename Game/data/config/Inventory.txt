@@ -1,0 +1,5 @@
+hearts = 3
+weapon = Spear
+uroven = 2
+money = 15
+speed = 5
